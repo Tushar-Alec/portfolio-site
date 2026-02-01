@@ -12,10 +12,8 @@ import git from './git.png';
 import mongodb from './mongodb.png';
 import right_arrow_white from './right-arrow-white.png';
 import logo from './logo.png';
-import logo_dark from './logo_dark.png';
 import mail_icon from './mail_icon.png';
 import mail_icon_dark from './mail_icon_dark.png';
-import profile_img from './profile-img.png';
 import download_icon from './download-icon.png';
 import hand_icon from './hand-icon.png';
 import header_bg_color from './header-bg-color.png';
@@ -35,7 +33,6 @@ import right_arrow from './right-arrow.png';
 import send_icon from './send-icon.png';
 import right_arrow_bold from './right-arrow-bold.png';
 import right_arrow_bold_dark from './right-arrow-bold-dark.png';
-import pfp from './pfp.png';
 import alec from './alec.png';
 
 export const assets = {
@@ -54,10 +51,7 @@ export const assets = {
     mongodb,
     right_arrow_white,
     logo,
-    logo_dark,
     mail_icon,
-    mail_icon_dark,
-    profile_img,
     download_icon,
     hand_icon,
     header_bg_color,
@@ -65,7 +59,6 @@ export const assets = {
     sun_icon,
     arrow_icon,
     arrow_icon_dark,
-    pfp,
     menu_black,
     menu_white,
     close_black,
